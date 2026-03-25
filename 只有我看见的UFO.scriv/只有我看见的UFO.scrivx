@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="9A68A06A-C5DC-4965-8419-6EE32E2494F0" Version="2.0" Creator="SCRMAC-3.4-16639" Device="Dongzhes-MacBook-Pro" Author="" Modified="2025-04-18 17:05:57 -0400" ModID="4AC3AA1F-360B-4E71-BAB3-B1A127BAEC17">
+    <Binder>
+        <BinderItem UUID="CCC439C1-682C-45A5-82EA-79E2E2B1F47D" Type="DraftFolder" Created="2025-04-05 07:55:47 -0400" Modified="2025-04-05 07:55:47 -0400">
+            <Title>草稿</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="AC878B07-2064-4030-A56E-6C371E31BB95" Type="Text" Created="2025-04-05 07:55:47 -0400" Modified="2025-04-13 08:49:22 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3348,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="507E7198-51C9-42F6-A6AC-7E3F69B0A1A2" Type="Text" Created="2025-04-05 12:13:20 -0400" Modified="2025-04-05 12:13:39 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>126,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="2A16413E-7118-4762-9291-35FC8E693342" Type="ResearchFolder" Created="2025-04-05 07:55:47 -0400" Modified="2025-04-05 07:55:47 -0400">
+            <Title>研究</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="0AF6FC86-01AA-4503-BF21-5098C4A4F61D" Type="Text" Created="2025-04-05 12:46:26 -0400" Modified="2025-04-05 17:43:48 -0400">
+                    <Title>deepseek</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>538,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="B21F8A85-EBE0-48E5-866A-24C850833F7A" Type="Text" Created="2025-04-05 12:50:44 -0400" Modified="2025-04-05 17:43:30 -0400">
+                    <Title>claude</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>388,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="90E00BA5-D6E5-4D55-9685-0B646DBBC380" Type="Text" Created="2025-04-05 12:54:29 -0400" Modified="2025-04-05 17:43:30 -0400">
+                    <Title>gemini</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>196,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem UUID="21F7CE22-8C9B-44DE-A562-EBE4E40A1953" Type="Text" Created="2025-04-13 08:43:50 -0400" Modified="2025-04-13 08:48:42 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>218,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="F58E8702-335E-4936-AB91-0F9F67B59DAA" Type="TrashFolder" Created="2025-04-05 07:55:47 -0400" Modified="2025-04-05 07:55:47 -0400">
+            <Title>废纸篓</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="913EB3C4-1919-4F74-B698-2DBCB384838D" Color="0.112547 0.112547 0.112547">
+            <Title>活页夹</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="A9B68338-7F4C-494C-978F-4400279B1FF7" Color="0.190666 0.172706 0.216531">
+            <Title>搜索结果</Title>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="37E73525-A9CA-4671-956F-8A186DCCA0DE">标题</Type>
+            <Type ID="E49F0672-4A9A-4CEB-B66F-B74A671927A3">副标题</Type>
+            <Type ID="DD7FBCF4-4424-4A81-9F2B-E1B776D62C01">稿件</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>37E73525-A9CA-4671-956F-8A186DCCA0DE</Type>
+            </Folders>
+            <Containers>
+                <Type>DD7FBCF4-4424-4A81-9F2B-E1B776D62C01</Type>
+            </Containers>
+            <Files>
+                <Type>DD7FBCF4-4424-4A81-9F2B-E1B776D62C01</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>标签</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">无标签</Label>
+            <Label ID="0" Color="0.993495 0.701227 0.732594">红色</Label>
+            <Label ID="1" Color="0.995418 0.790968 0.65239">桔黄</Label>
+            <Label ID="2" Color="0.99772 0.892753 0.652574">黄色</Label>
+            <Label ID="3" Color="0.715848 0.948734 0.697698">绿</Label>
+            <Label ID="4" Color="0.702312 0.888297 0.97426">蓝色</Label>
+            <Label ID="5" Color="0.957564 0.766768 0.999625">紫色</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>状态</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">无状态</Status>
+            <Status ID="0">待办事项</Status>
+            <Status ID="1">正在进行</Status>
+            <Status ID="2">首个草稿</Status>
+            <Status ID="3">已修订草稿</Status>
+            <Status ID="4">最终草稿</Status>
+            <Status ID="5">完成</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2025-04-05 07:55:47 -0400" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2025-04-19 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2025-04-18 17:05:56 -0400"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2025-04-18 00:00:00 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>
