@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="C8420DE1-131B-45CE-B452-D6471E49CECF" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="Dwei-2" Author="" Modified="2026-01-20 06:13:27 -0500" ModID="62EB2934-14B0-44BC-9B43-692775193D47">
+<ScrivenerProject Identifier="C8420DE1-131B-45CE-B452-D6471E49CECF" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="Dwei-2" Author="" Modified="2026-05-02 13:32:13 -0400" ModID="5DE341FF-A3D7-4B4D-A285-423B84A84AA7">
     <Binder>
         <BinderItem UUID="F95F2B57-1E9E-4A7B-954B-3724D12A3375" Type="DraftFolder" Created="2026-01-04 11:06:41 -0500" Modified="2026-01-04 11:06:41 -0500">
             <Title>Draft</Title>
@@ -13,15 +13,15 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>141,0</TextSelection>
+                        <TextSelection>390,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
-                <BinderItem UUID="46D5E9F4-E976-4FC2-8E17-9DAD885384BF" Type="Text" Created="2026-01-15 07:12:08 -0500" Modified="2026-01-15 07:41:30 -0500">
+                <BinderItem UUID="46D5E9F4-E976-4FC2-8E17-9DAD885384BF" Type="Text" Created="2026-01-15 07:12:08 -0500" Modified="2026-05-02 13:32:13 -0400">
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>182,0</TextSelection>
+                        <TextSelection>1403,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="B4F5D52E-A633-45F7-8F63-C45FE83F3963" Type="Text" Created="2026-01-15 07:41:11 -0500" Modified="2026-01-19 07:30:15 -0500">
@@ -29,7 +29,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1225,0</TextSelection>
+                        <TextSelection>223,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
                 <BinderItem UUID="B2787213-7338-474E-ADCC-8E8B2BAB0788" Type="Text" Created="2026-01-15 07:41:07 -0500" Modified="2026-01-15 07:41:07 -0500">
@@ -161,12 +161,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2026-01-04 11:06:41 -0500" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2026-01-21 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-01-20 06:13:25 -0500"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2026-05-03 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="42" Characters="68" Date="2026-05-02 13:29:03 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-01-20 00:00:00 -0500">
-        <DraftWordCount>0</DraftWordCount>
-        <DraftCharCount>0</DraftCharCount>
+    <RecentWritingHistory Date="2026-05-02 00:00:00 -0400">
+        <DraftWordCount>42</DraftWordCount>
+        <DraftCharCount>68</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

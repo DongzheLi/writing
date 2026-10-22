@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="544DA72D-2FF5-4059-A2C2-2509AC049367" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="Dwei-2" Author="" Modified="2025-12-28 10:34:13 -0500" ModID="C5D56D4C-F6DC-41F1-A1DC-5C355BEC540A">
+<ScrivenerProject Identifier="544DA72D-2FF5-4059-A2C2-2509AC049367" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="Dwei-2" Author="" Modified="2026-09-11 09:46:57 -0400" ModID="7F2DD368-E483-4302-A88E-61EB75E3FF82">
     <Binder>
         <BinderItem UUID="84319A7F-AB18-4D01-80A2-C13618E7BE08" Type="DraftFolder" Created="2025-12-28 10:22:14 -0500" Modified="2025-12-28 10:22:14 -0500">
             <Title>Draft</Title>
@@ -12,7 +12,7 @@
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>590,0</TextSelection>
+                        <TextSelection>594,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -31,11 +31,11 @@
         </BinderItem>
     </Binder>
     <Collections>
-        <Collection Type="Binder" ID="170AA8E0-0206-4300-84D4-0DE0BDCDFF89" Color="0.112547 0.112547 0.112547">
-            <Title>Binder</Title>
+        <Collection Type="Binder" ID="170AA8E0-0206-4300-84D4-0DE0BDCDFF89" Color="0.091141 0.091141 0.091141">
+            <Title>活页夹</Title>
         </Collection>
         <Collection Type="RecentSearch" ID="5FEA1E7A-6192-4A00-A65F-4B3148EA83E4" Color="0.190666 0.172706 0.216531">
-            <Title>Search Results</Title>
+            <Title>搜索结果</Title>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -84,12 +84,12 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2025-12-28 10:22:14 -0500" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2025-12-29 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="329" Characters="594" Date="2025-12-28 10:34:10 -0500"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2026-09-12 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2026-09-11 09:46:54 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2025-12-28 10:22:14 -0500">
-        <DraftWordCount>329</DraftWordCount>
-        <DraftCharCount>594</DraftCharCount>
+    <RecentWritingHistory Date="2026-09-11 00:00:00 -0400">
+        <DraftWordCount>0</DraftWordCount>
+        <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
         <OtherCharCount>0</OtherCharCount>
     </RecentWritingHistory>

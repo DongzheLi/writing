@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Identifier="FF5E97DD-6C2C-497C-BDDA-02686CF5446B" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="Dwei-2" Author="" Modified="2026-05-02 13:33:36 -0400" ModID="88AA4607-131A-4AA2-8E52-50E91245BCE0">
+    <Binder>
+        <BinderItem UUID="4EE57C6B-A160-43CB-98AE-6CC11E58B836" Type="DraftFolder" Created="2026-04-27 17:42:00 -0400" Modified="2026-04-27 17:42:00 -0400">
+            <Title>草稿</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem UUID="198B99C8-272D-439B-961E-00AA660542A1" Type="Text" Created="2026-04-27 17:42:00 -0400" Modified="2026-05-02 13:33:36 -0400">
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>3735,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem UUID="E7E1F702-4F53-4F0C-8E49-102B7D55E5D6" Type="ResearchFolder" Created="2026-04-27 17:42:00 -0400" Modified="2026-04-27 17:42:00 -0400">
+            <Title>研究</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem UUID="9FA16E4C-CAE8-4778-9E45-5C203E2646B0" Type="TrashFolder" Created="2026-04-27 17:42:00 -0400" Modified="2026-04-27 17:42:00 -0400">
+            <Title>废纸篓</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="118C18B7-5872-459E-B387-39463C920C2B" Color="0.112547 0.112547 0.112547">
+            <Title>活页夹</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="33C2EAF2-28FD-464F-9604-BB952EC7BA16" Color="0.190666 0.172706 0.216531">
+            <Title>搜索结果</Title>
+        </Collection>
+    </Collections>
+    <SectionTypes>
+        <TypeDefinitions>
+            <Type ID="6C15A6C6-4BDF-448C-A3D1-7C7A54088479">标题</Type>
+            <Type ID="19AFB75E-0FE2-4BBD-AFA8-CC0201684C8C">副标题</Type>
+            <Type ID="8175F815-B578-4EDB-B6EA-9FD466A6BF1E">稿件</Type>
+        </TypeDefinitions>
+        <LevelTypes>
+            <Folders>
+                <Type>6C15A6C6-4BDF-448C-A3D1-7C7A54088479</Type>
+            </Folders>
+            <Containers>
+                <Type>8175F815-B578-4EDB-B6EA-9FD466A6BF1E</Type>
+            </Containers>
+            <Files>
+                <Type>8175F815-B578-4EDB-B6EA-9FD466A6BF1E</Type>
+            </Files>
+        </LevelTypes>
+    </SectionTypes>
+    <LabelSettings>
+        <Title>标签</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">无标签</Label>
+            <Label ID="0" Color="0.993495 0.701227 0.732594">红色</Label>
+            <Label ID="1" Color="0.995418 0.790968 0.65239">桔黄</Label>
+            <Label ID="2" Color="0.99772 0.892753 0.652574">黄色</Label>
+            <Label ID="3" Color="0.715848 0.948734 0.697698">绿</Label>
+            <Label ID="4" Color="0.702312 0.888297 0.97426">蓝色</Label>
+            <Label ID="5" Color="0.957564 0.766768 0.999625">紫色</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>状态</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">无状态</Status>
+            <Status ID="0">待办事项</Status>
+            <Status ID="1">正在进行</Status>
+            <Status ID="2">首个草稿</Status>
+            <Status ID="3">已修订草稿</Status>
+            <Status ID="4">最终草稿</Status>
+            <Status ID="5">完成</Status>
+        </StatusItems>
+    </StatusSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2026-04-27 17:42:00 -0400" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2026-05-03 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="-338" Characters="-647" Date="2026-05-02 13:33:06 -0400"/>
+    </ProjectTargets>
+    <RecentWritingHistory Date="2026-05-02 00:00:00 -0400">
+        <DraftWordCount>-338</DraftWordCount>
+        <DraftCharCount>-647</DraftCharCount>
+        <OtherWordCount>0</OtherWordCount>
+        <OtherCharCount>0</OtherCharCount>
+    </RecentWritingHistory>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"/>
+</ScrivenerProject>

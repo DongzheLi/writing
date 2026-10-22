@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="C5DF10E7-F2D2-4603-B451-BC2ABD030A96" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="Dwei-2" Author="" Modified="2026-01-03 06:38:53 -0500" ModID="F7B88CE3-1CC4-4BC2-BD2D-E255E8A4A128">
+<ScrivenerProject Identifier="C5DF10E7-F2D2-4603-B451-BC2ABD030A96" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="Dwei-2" Author="" Modified="2026-05-02 13:36:29 -0400" ModID="66969E75-F76B-49E0-98BA-E8DF860FD8FB">
     <Binder>
         <BinderItem UUID="28712E43-AC9F-4F39-86C7-E735E8EE3ADC" Type="DraftFolder" Created="2026-01-02 12:05:08 -0500" Modified="2026-01-02 12:05:08 -0500">
             <Title>Draft</Title>
@@ -7,12 +7,12 @@
                 <IncludeInCompile>Yes</IncludeInCompile>
             </MetaData>
             <Children>
-                <BinderItem UUID="9F6BC1E2-5E48-4088-AEEA-3C8A3859CC02" Type="Text" Created="2026-01-02 12:05:08 -0500" Modified="2026-01-02 12:36:35 -0500">
+                <BinderItem UUID="9F6BC1E2-5E48-4088-AEEA-3C8A3859CC02" Type="Text" Created="2026-01-02 12:05:08 -0500" Modified="2026-04-22 15:39:29 -0400">
                     <MetaData>
                         <IncludeInCompile>Yes</IncludeInCompile>
                     </MetaData>
                     <TextSettings>
-                        <TextSelection>1724,0</TextSelection>
+                        <TextSelection>1505,0</TextSelection>
                     </TextSettings>
                 </BinderItem>
             </Children>
@@ -32,10 +32,10 @@
     </Binder>
     <Collections>
         <Collection Type="Binder" ID="327EE18A-5A9F-4ECF-80B3-84B068AB3B2C" Color="0.112547 0.112547 0.112547">
-            <Title>Binder</Title>
+            <Title>活页夹</Title>
         </Collection>
         <Collection Type="RecentSearch" ID="E9DDECE3-29F7-4A1B-A90A-3E31B1FB46E4" Color="0.190666 0.172706 0.216531">
-            <Title>Search Results</Title>
+            <Title>搜索结果</Title>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -84,10 +84,10 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2026-01-02 12:05:07 -0500" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2026-01-04 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-01-03 06:38:51 -0500"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2026-05-03 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2026-05-02 13:36:21 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-01-03 00:00:00 -0500">
+    <RecentWritingHistory Date="2026-05-02 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>

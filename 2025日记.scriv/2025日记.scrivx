@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ScrivenerProject Identifier="7C4B4D4F-0D9C-44EB-AF32-D306FB83ADAC" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="Dwei-2" Author="" Modified="2026-01-01 10:32:11 -0500" ModID="E042CD5D-F898-41C7-9267-C90B15561B0A">
+<ScrivenerProject Identifier="7C4B4D4F-0D9C-44EB-AF32-D306FB83ADAC" Version="2.0" Creator="SCRMAC-3.5.2-17487" Device="Dwei-2" Author="" Modified="2026-05-02 13:22:29 -0400" ModID="0D49DD93-42B0-4B14-BC65-8DDDFB1CACBA">
     <Binder>
         <BinderItem UUID="FEEFE4E5-7E7A-4C3B-B9F8-67F4258750EF" Type="DraftFolder" Created="2025-12-24 11:46:05 -0500" Modified="2025-12-24 11:46:05 -0500">
             <Title>Draft</Title>
@@ -75,10 +75,10 @@
     </Binder>
     <Collections>
         <Collection Type="Binder" ID="C09A346A-562A-4D29-B8DF-5F7BA2693581" Color="0.112547 0.112547 0.112547">
-            <Title>Binder</Title>
+            <Title>活页夹</Title>
         </Collection>
         <Collection Type="RecentSearch" ID="7DB07501-B000-4F4E-8B2D-6EE079EA44DF" Color="0.190666 0.172706 0.216531">
-            <Title>Search Results</Title>
+            <Title>搜索结果</Title>
         </Collection>
     </Collections>
     <SectionTypes>
@@ -127,10 +127,10 @@
     </StatusSettings>
     <ProjectTargets Notify="No">
         <DraftTarget Type="Words" CountIncludedOnly="Yes" CurrentCompileGroupOnly="No" Deadline="2025-12-24 11:46:04 -0500" IgnoreDeadline="Yes">0</DraftTarget>
-        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2026-01-02 00:00:00 -0500" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
-        <PreviousSession Words="0" Characters="0" Date="2026-01-01 10:32:10 -0500"/>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" NextResetDate="2026-05-03 01:00:00 -0400" ResetType="Time" ResetTime="00:00" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2026-05-02 13:22:26 -0400"/>
     </ProjectTargets>
-    <RecentWritingHistory Date="2026-01-01 00:00:00 -0500">
+    <RecentWritingHistory Date="2026-05-02 00:00:00 -0400">
         <DraftWordCount>0</DraftWordCount>
         <DraftCharCount>0</DraftCharCount>
         <OtherWordCount>0</OtherWordCount>
